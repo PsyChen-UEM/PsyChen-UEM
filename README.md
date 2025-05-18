@@ -1,7 +1,7 @@
 - 👋 Hi, I’m PsyChen
 - 👀 I’m interested in Computer Vision、Neural Science
 - 🌱 I’m currently learning machine learning
-- 📫 How to reach me ，mail me:24084102@st.cidp.edu.cn
+- 📫 How to reach me 24084102@st.cidp.edu.cn
 
 
 <!---
